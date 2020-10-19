@@ -1,7 +1,14 @@
 {
   "name": "tailwindcss-border-xy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shorthand for border classes on the X and Y axis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimeonGriggs/tailwindcss-border-xy"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "keywords": [
     "plugin",
     "tailwind",
