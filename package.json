@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-border-xy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shorthand for border classes on the X and Y axis",
   "repository": {
     "type": "git",
@@ -23,11 +23,11 @@
   "author": "Simeon Griggs <simeon@hey.com>",
   "main": "index.js",
   "dependencies": {
-    "@pika/react": "^16.13.1",
-    "@pika/react-dom": "^16.13.1",
     "tailwindcss": "^1.9.4"
   },
   "devDependencies": {
+    "@pika/react": "^16.13.1",
+    "@pika/react-dom": "^16.13.1",
     "vite": "^1.0.0-rc.1",
     "vite-plugin-react": "^3.0.0"
   }
